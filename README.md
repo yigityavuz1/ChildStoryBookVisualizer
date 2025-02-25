@@ -1,4 +1,4 @@
-# Child Story Book Visualizer Pipeline
+# Child Story Book Visualizer 
 
 A multi-modal application that transforms a child's storybook PDF into a visual narrative! This project takes an uploaded PDF of a children’s story, extracts and summarizes its content, generates multiple visual depiction prompts in a user‑selected illustration style, and then uses a text-to-image AI model (via the Hugging Face Inference API) to produce a gallery of illustrations depicting key scenes from the story.
 
