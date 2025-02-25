@@ -1,0 +1,17 @@
+# scratch notebooks
+deneme_pdf.ipynb
+finetuning3.ipynb
+
+# example storybook
+giraffe.pdf 
+
+# secrets
+app/.env
+app_w_finetuned_model/.env
+
+# model checpoints
+app_w_finetuned_model\sd-model-finetuned\checkpoint-500
+app_w_finetuned_model\sd-model-finetuned\checkpoint-1000
+app_w_finetuned_model\sd-model-finetuned\checkpoint-1500
+app_w_finetuned_model\sd-model-finetuned\checkpoint-2000
+app_w_finetuned_model\sd-model-finetuned\checkpoint-2500
